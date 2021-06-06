@@ -12,6 +12,6 @@ package com.digitaltonemx.eclipse.main;
  */
 public class Principal {
 	public static void main(String[] args) {
-		System.out.println("olis");
+		System.out.println("ola 2");
 	}
 }
